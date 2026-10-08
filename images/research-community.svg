@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#17151d"/><circle cx="480" cy="105" r="72" fill="#6d4fc2" opacity=".9"/>
+<path d="M90 450 C160 350 220 420 285 320 S420 220 520 285" fill="none" stroke="#f6d6ff" stroke-width="4"/>
+<circle cx="105" cy="450" r="34" fill="#c8b3ff"/><circle cx="285" cy="320" r="34" fill="#f6d6ff"/><circle cx="520" cy="285" r="34" fill="#c8b3ff"/>
+<text x="55" y="80" fill="white" font-family="Arial" font-size="22" letter-spacing="5">RESEARCH 01</text>
+<text x="55" y="145" fill="white" font-family="Georgia" font-size="48">COMMUNITY</text>
+<text x="55" y="195" fill="#d9c9ff" font-family="Arial" font-size="18">student discovery • information architecture</text>
+<rect x="55" y="485" width="490" height="2" fill="#6d4fc2"/><text x="55" y="535" fill="white" font-family="Arial" font-size="16">QUESTION → THEMES → DESIGN IMPLICATIONS</text>
+</svg>

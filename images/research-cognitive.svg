@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#efe9f8"/><circle cx="470" cy="125" r="100" fill="#55408d"/>
+<g fill="none" stroke="#171717" stroke-width="3"><rect x="70" y="285" width="150" height="190" rx="10"/><rect x="245" y="245" width="150" height="230" rx="10"/><rect x="420" y="305" width="105" height="171" rx="10"/></g>
+<path d="M115 360h60M115 390h75M290 320h60M290 350h80M290 380h55M445 365h55M445 395h45" stroke="#55408d" stroke-width="9" stroke-linecap="round"/>
+<text x="60" y="78" fill="#171717" font-family="Arial" font-size="22" letter-spacing="5">RESEARCH 02</text>
+<text x="60" y="145" fill="#171717" font-family="Georgia" font-size="45">COGNITIVE LOAD</text>
+<text x="60" y="190" fill="#55408d" font-family="Arial" font-size="18">UX writing • mobile navigation • clarity</text>
+<text x="60" y="545" fill="#171717" font-family="Arial" font-size="15">LITERATURE → SYNTHESIS → DESIGN GUIDANCE</text>
+</svg>
